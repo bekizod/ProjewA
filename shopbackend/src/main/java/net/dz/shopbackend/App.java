@@ -17,6 +17,5 @@ public void firsMethod(String name, String  Id){
 public void secondMethod ()  {
 }
 
-public void bkMethod(){
-}
+
 }
